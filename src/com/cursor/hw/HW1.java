@@ -1,6 +1,6 @@
 package com.cursor.hw;
 
-public class Homework1 {
+public class HW1 {
     public void testHomework1(){
         byte a = 1;
         short d = 11;

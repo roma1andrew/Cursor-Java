@@ -1,10 +1,10 @@
 package Main;
 
-import com.cursor.hw.Homework1;
+import com.cursor.hw.HW1;
 
 public class Main {
     public static void main(String[] args) {
-        Homework1 homework1 = new Homework1();
-        homework1.testHomework1();
+        HW1 HW1 = new HW1();
+        HW1.testHomework1();
     }
 }
